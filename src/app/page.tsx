@@ -1,5 +1,5 @@
 import { getAllItems } from "@/services/getAllItems";
-import { ItemType } from "@/types/ItemType";
+import type { ItemType } from "@/types/ItemType";
 import Link from "next/link";
 import { ItemsList } from "./_components/ItemsList";
 
